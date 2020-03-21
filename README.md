@@ -6,3 +6,6 @@ Do you want to collaborate on the project?
 Contact us:
 Navid@fusedbone.com 
 Taha.Mehrabi1991@gmail.com
+
+# Check Wiki for detailed files, plans, etc. 
+# Last Update: 21/03/2020
