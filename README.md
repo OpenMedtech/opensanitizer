@@ -8,4 +8,5 @@ Navid@fusedbone.com
 Taha.Mehrabi1991@gmail.com
 
 # Check Wiki for detailed files, plans, etc. 
-# Last Update: 21/03/2020
+# Last Update: 22/03/2020
+Wiring Diagram added to Build page of the Wiki
