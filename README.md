@@ -8,5 +8,7 @@ Navid@fusedbone.com
 Taha.Mehrabi1991@gmail.com
 
 # Check Wiki for detailed files, plans, etc. 
-# Last Update: 22/03/2020
+# Last Update: 26/03/2020
+# Design V1.0 is now OBSOLETE! Please DOWNLOAD V1.2 Designs Now!
 Wiring Diagram added to Build page of the Wiki
+Version 1.2 Solidworks parts and STEP is now updated
